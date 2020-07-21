@@ -26,7 +26,7 @@ namespace StellarWitch{
 			Menu();
 		}
 		public static void End(){
-			Run=true;
+			Run=false;
 			Play();
 		}
 		public static void Play(){
