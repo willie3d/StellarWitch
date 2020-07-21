@@ -2,6 +2,7 @@ using System;
 namespace StellarWitch{
 	class Game{
 		static bool Run= true;
+		static string Choice;
 		public static void Menu(){
 			Console.Clear();
 			Console.WriteLine("Start game");
