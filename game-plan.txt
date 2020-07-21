@@ -8,3 +8,6 @@ Familars: fox that uses fire spells,owl that uses air spells,
 The first party member is a adventurer elf that uses stab attacks,a demon that uses fire magic, an alchmist(steampunk look) that makes potions(healing spells and random type spells)
 storyline so far, a witch is going on a adventure to get a magical staff to stop an evil entity and along the way she meets other characters to help her solve puzzles and to fight. 
 
+When loading the game, it starts off in the witch's room with a tutorial on how to pick up items by clicking "P" and "E" to equip and to move around with arrow keys. 
+once the player gets to the school, the teacher will forget the witch's name and will ask for the player to input a new name?
+or should it be a hardcoded name?
