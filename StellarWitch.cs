@@ -44,6 +44,7 @@ namespace StellarWitch{
     		textBox1.Font = new Font ("Arial" , 12);
     		textBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
     		textBox1.Height = textBox1.PreferredHeight;
+		textBox1.TextAlign = HorizontalAlignment.Left;
 		textBox1.text="BEEP BEEP BEEP.*The sound of an alarm clock rings througout the room*";
 		}
 		
