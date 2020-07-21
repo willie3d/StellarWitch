@@ -23,6 +23,7 @@ namespace StellarWitch{
 			Console.WriteLine("Stellar Witch");
 			Console.WriteLine("Press enter to start.");
 			Console.ReadLine();
+			Menu();
 		}
 		public static void End(){
 			Run=true;
