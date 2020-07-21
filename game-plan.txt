@@ -5,4 +5,5 @@ The style of the battles is set up like pokemon or deltarune.
 The player can choose their witches familiar, based off the familair, is what type of spell they use. Like in Pokemon. 
 Types include Air, water,earth and fire spells. 
 Familars: fox that uses fire spells,owl that uses air spells,
-The first party member is a adventurer elf. 
+The first party member is a adventurer elf that uses stab attacks,a demon that uses fire magic, 
+storyline so far, a witch is going on a adventure to get a magical staff to stop an evil entity and along the way she meets other characters to help her solve puzzles and to fight. 
