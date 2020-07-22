@@ -5,9 +5,14 @@ The style of the battles is set up like pokemon or deltarune.
 The player can choose their witches familiar, based off the familair, is what type of spell they use. Like in Pokemon. 
 Types include Air, water,earth and fire spells. 
 Familars: fox that uses fire spells,owl that uses air spells,
+Player can chose an element and based off what element they pick, this determines the player's begining spell. 
+This also allows any spells under this element to do more damage for the player and the color of their character. 
+Air spells do speed based damage, fire spells do heavy damage,earth spell do defensive/damage,and water spells are mainly heal.
+Each does damage but an added effect based on that element. Like water does damage and heals. 
 The first party member is a adventurer elf that uses stab attacks,a demon that uses fire magic, an alchmist(steampunk look) that makes potions(healing spells and random type spells)
 storyline so far, a witch is going on a adventure to get a magical staff to stop an evil entity and along the way she meets other characters to help her solve puzzles and to fight. 
 
 When loading the game, it starts off in the witch's room with a tutorial on how to pick up items by clicking "P" and "E" to equip and to move around with arrow keys. 
 once the player gets to the school, the teacher will forget the witch's name and will ask for the player to input a new name?
 or should it be a hardcoded name?
+
