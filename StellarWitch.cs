@@ -38,6 +38,30 @@ namespace StellarWitch{
 			End();
 		}
 	}
+	public class KeyEventArgs : EventArgs;
+	private void KeyDown(object sender, KeyEventArgs e)
+{
+    if (e.KeyCode == Keys.Control) return;
+
+    Control controlToMove = ActiveControl;
+		
+    switch (e.KeyCode)
+    {
+        case Keys.Left:
+            controlToMove.Left -= 1;
+            break;
+        case Keys.Right:
+            controlToMove.Left += 1;
+            break;
+        case Keys.Up:
+            controlToMove.Top -= 1;
+            break;
+        case Keys.Down:
+            controlToMove.Top += 1;
+            break;
+    }
+}
+	
 	public Textbox();
 		public void CreateTextBox() {
    		TextBox textBox1 = new TextBox();
