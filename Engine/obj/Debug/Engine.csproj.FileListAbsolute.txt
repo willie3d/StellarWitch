@@ -1,0 +1,6 @@
+C:\Users\leroy\source\repos\Stellar Witch\Engine\bin\Debug\Engine.dll
+C:\Users\leroy\source\repos\Stellar Witch\Engine\bin\Debug\Engine.pdb
+C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.dll
+C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.pdb
