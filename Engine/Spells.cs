@@ -24,7 +24,7 @@ namespace Engine
 
         public Spells(string type)
         {
-            this.type = type;
+            this.Type = type;
         }
     }
 }

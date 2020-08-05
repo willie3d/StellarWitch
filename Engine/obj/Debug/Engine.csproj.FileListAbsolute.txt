@@ -4,3 +4,7 @@ C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.csprojAssembly
 C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.dll
 C:\Users\leroy\source\repos\Stellar Witch\Engine\obj\Debug\Engine.pdb
+d:\GitHub\StellarWitch\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+d:\GitHub\StellarWitch\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+d:\GitHub\StellarWitch\Engine\obj\Debug\Engine.dll
+d:\GitHub\StellarWitch\Engine\obj\Debug\Engine.pdb

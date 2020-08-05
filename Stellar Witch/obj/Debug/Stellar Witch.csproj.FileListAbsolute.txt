@@ -11,3 +11,5 @@ C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.
 C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.exe
 C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.pdb
 C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar_Witch.Form1.resources
+d:\GitHub\StellarWitch\Stellar Witch\obj\Debug\Stellar Witch.exe
+d:\GitHub\StellarWitch\Stellar Witch\obj\Debug\Stellar Witch.pdb
