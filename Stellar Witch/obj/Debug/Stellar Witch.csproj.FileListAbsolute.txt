@@ -1,0 +1,13 @@
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\bin\Debug\Stellar Witch.exe.config
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\bin\Debug\Stellar Witch.exe
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\bin\Debug\Stellar Witch.pdb
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\bin\Debug\Engine.dll
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\bin\Debug\Engine.pdb
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.csprojAssemblyReference.cache
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar_Witch.Properties.Resources.resources
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.csproj.GenerateResource.cache
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.csproj.CoreCompileInputs.cache
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.csproj.CopyComplete
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.exe
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar Witch.pdb
+C:\Users\leroy\source\repos\Stellar Witch\Stellar Witch\obj\Debug\Stellar_Witch.Form1.resources
